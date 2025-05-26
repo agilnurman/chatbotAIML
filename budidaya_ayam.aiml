@@ -1,0 +1,102 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+    <pattern>INFORMASI TENTANG AYAM PEDAGING</pattern>
+    <template>Apa yang ingin Anda ketahui tentang ayam pedaging?</template>
+  </category>
+
+  <category>
+    <pattern>APA ITU AYAM PEDAGING</pattern>
+    <template>Ayam pedaging adalah ayam yang dipelihara untuk diambil dagingnya dengan pertumbuhan cepat dan efisiensi pakan tinggi.</template>
+  </category>
+
+<category>
+    <pattern>INFORMASI TENTANG PAKAN</pattern>
+    <template>Apa yang ingin Anda ketahui tentang pakan ayam pedaging?.</template>
+  </category>
+
+  <category>
+    <pattern>JENIS PAKAN UNTUK AYAM PEDAGING</pattern>
+    <template>Pakan ayam pedaging meliputi starter (0-2 minggu, protein 22-24%), grower (3-5 minggu, protein 20-22%), dan finisher (6 minggu ke atas, protein 18-20%).</template>
+  </category>
+
+  <category>
+    <pattern>KELOMPOK PAKAN AYAM</pattern>
+    <template>Pakan ayam pedaging dikelompokkan menjadi starter, grower dan finisher sesuai usia ayam.</template>
+  </category>
+
+  <category>
+    <pattern>BERAPA KALI AYAM DIBERI MAKAN</pattern>
+    <template>Ayam pedaging biasanya diberi makan 3-4 kali sehari, disesuaikan dengan usia dan berat badan.</template>
+  </category>
+
+  <category>
+    <pattern>BAGAIMANA CARA MEMBERI MAKAN AYAM</pattern>
+    <template>Berikan pakan sesuai jadwal dan pastikan selalu tersedia agar ayam mendapat nutrisi optimal.</template>
+  </category>
+
+<category>
+    <pattern>INFORMASI TENTANG KESEHATAN</pattern>
+    <template>Apa yang ingin Anda ketahui tentang kesehatan ayam pedaging?.</template>
+  </category>
+
+  <category>
+    <pattern>PERAWATAN KESEHATAN AYAM</pattern>
+    <template>Vaksinasi lengkap, kebersihan kandang, pakan dan air bersih sangat penting bagi kesehatan ayam.</template>
+  </category>
+
+  <category>
+    <pattern>PENYAKIT UMUM PADA AYAM PEDAGING</pattern>
+    <template>Penyakit umum adalah Newcastle, Coccidiosis dan penyakit saluran pernapasan.</template>
+  </category>
+
+<category>
+    <pattern>INFORMASI TENTANG KANDANG</pattern>
+    <template>Apa yang ingin Anda ketahui tentang manajemen kandang ayam pedaging?.</template>
+  </category>
+
+  <category>
+    <pattern>JADWAL MEMBERSIHKAN KANDANG</pattern>
+    <template>Bersihkan kandang setiap hari untuk limbah kecil dan lakukan pembersihan besar minimal seminggu sekali.</template>
+  </category>
+
+  <category>
+    <pattern>SUHU KANDANG</pattern>
+    <template>Suhu kandang ideal berkisar 25 sampai 30 derajat Celcius.</template>
+  </category>
+
+<category>
+    <pattern>INFORMASI TENTANG FCR</pattern>
+    <template>Apa yang ingin Anda ketahui tentang FCR?.</template>
+  </category>
+
+  <category>
+    <pattern>APA ITU FCR</pattern>
+    <template>Feed Conversion Ratio (FCR) adalah rasio konsumsi pakan terhadap pertambahan berat badan, idealnya antara 1,5 sampai 1,7.</template>
+  </category>
+
+  <category>
+    <pattern>BERAT AYAM IDEAL</pattern>
+    <template>Berat ideal pada minggu pertama adalah 150-200 gram, dan pada saat panen 2-2,5 kg.</template>
+  </category>
+
+  <category>
+    <pattern>TINGKAT KEMATIAN AYAM</pattern>
+    <template>Tingkat kematian ideal kurang dari 5% selama masa budidaya.</template>
+  </category>
+
+  <category>
+    <pattern>KEMBALI</pattern>
+    <template>Silakan ketik /start untuk kembali ke menu utama.</template>
+  </category>
+
+  <category>
+  <pattern>Saya tidak mengerti</pattern>
+  <template>
+    Maaf, saya tidak memahami pertanyaan Anda 🤔. 
+    Silakan pilih kategori informasi melalui menu utama ⬇️ atau ketik pertanyaan yang sesuai dengan topik budidaya ayam pedaging 🐔.
+  </template>
+  </category>
+
+
+</aiml>
